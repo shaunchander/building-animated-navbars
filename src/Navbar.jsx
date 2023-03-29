@@ -1,4 +1,4 @@
-import { useState } from "React";
+import { useState } from "react";
 import { motion, AnimatePresence, MotionConfig } from "framer-motion";
 
 export default function Navbar() {
